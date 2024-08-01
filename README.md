@@ -1,22 +1,30 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NimsaraLiyanage.NimsaraLiyanage" />
 
+<h1 align="center" >Hey👋,I'm Nimsara Liyanage<br/></h1>
+<h6 align="center" >(A passionate software developer from Sri Lanka 🇱🇰)</h6>
+<h2 align="center" >A passionate</h3>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nimsara+Liyanage!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=1200&height=100&duration=4000&lines=FullStack+Developer;Ui,+Ux+Designer;ML/DL+Enthusiast;Blog+Writer;Hackathon+Winner;Chess+Coacher" />
+    <br/>
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=NimsaraLiyanage.NimsaraLiyanage" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
+
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Lecture Hall Booking System** using React and Spring Boot.
+ 🔭 I’m currently studying my **Bsc(Hons) Computer Engineering** degree in University Of Jaffna.
  
- 🌱 I’m currently learning **Machine Learning and advanced JavaScript frameworks.**
+ 👀 I’m interested in  FullStack Developing , Ui/Ux and Java Developing.I'm continuously exploring new technologies and methodologies in these areas to enhance my skill set.
 
-💬 Ask me about **React, Spring Boot, Machine Learning... or anything [here](https://github.com/NimsaraLiyanage/NimsaraLiyanage/issues)**
+ 🌱 Countinous learning and developing my skills**
 
-⚡ Fun fact **I enjoy participating in coding marathons and hackathons.**
+
+⚡ **I enjoy participating in coding marathons and hackathons.**
+
+🔗 Connect with Me:
+Let's connect on **[LinkedIn](www.linkedin.com/in/nimsaraliyanage)** to share insights and opportunities.
 
 </div>
  
@@ -70,7 +78,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.facebook.com/profile.php?id=100089094394158&mibextid=LQQJ4d/cdn/kofi1.png?v=3' border='0' alt='Connect With me !' /></a>
+<a href='https://www.facebook.com/profile.php?id=100089094394158&mibextid=LQQJ4d' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.freeiconspng.com/uploads/facebook-splat-f-logo-transparent-28.png' border='0'   alt=' Connect With me !' /></a>
 </div>
 
 <br/>
