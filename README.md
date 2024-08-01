@@ -18,7 +18,7 @@
  
  👀 I’m interested in  FullStack Developing , Ui/Ux and Java Developing.I'm continuously exploring new technologies and methodologies in these areas to enhance my skill set.
 
- 🌱 Countinous learning and developing my skills**
+ 🌱 Countinous learning and developing my skills
 
 
 ⚡ **I enjoy participating in coding marathons and hackathons.**
