@@ -1,9 +1,9 @@
 
 <h1 align="center" >Hey👋,I'm Nimsara Liyanage<br/></h1>
-<h6 align="center" >(A passionate software developer from Sri Lanka 🇱🇰)</h6>
+<h6 align="center" >(A passionate Software Engineer from Sri Lanka 🇱🇰)</h6>
 <h2 align="center" >A passionate</h3>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=1200&height=100&duration=4000&lines=FullStack+Developer;Ui,+Ux+Designer;ML/DL+Enthusiast;Blog+Writer;Hackathon+Winner;Chess+Coacher" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=1200&height=100&duration=4000&lines=AI/ML/DL+Enthusiast;FullStack+Developer;Ui,+Ux+Designer;Blog+Writer" />
     <br/>
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=NimsaraLiyanage.NimsaraLiyanage" />
 </h1>
@@ -14,14 +14,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying my **Bsc(Hons) Computer Engineering** degree in University Of Jaffna.
+ 🎓 I completed my **B.Sc. Eng. (Hons) in Computer Engineering** from the University of Jaffna.
  
- 👀 I’m interested in  FullStack Developing , Ui/Ux and Java Developing.I'm continuously exploring new technologies and methodologies in these areas to enhance my skill set.
-
- 🌱 Countinous learning and developing my skills
-
-
-⚡ **I enjoy participating in coding marathons and hackathons.**
+ 👀 I’m interested in AI/ML , Deep Learning , FullStack Developing and Computor Vision .I'm continuously exploring new technologies and methodologies in these areas to enhance my skill set.
 
 🔗 Connect with Me:
 Let's connect on **[LinkedIn](www.linkedin.com/in/nimsaraliyanage)** to share insights and opportunities.
